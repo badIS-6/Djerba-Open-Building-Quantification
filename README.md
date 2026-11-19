@@ -46,7 +46,7 @@ The project uses four datasets hosted directly in Google Earth Engine:
 
 ## 4. Environment and Layers:
 
-**GEE Project Link**: [https://code.earthengine.google.com/e3abca74eb488df63f1cc4a2370203d5](https://code.earthengine.google.com/3853aa9e106a0b1f4e50f490ca3af071)
+**GEE Project Link**: https://code.earthengine.google.com/f86d8e0ee52489ad1330e42ab660637f
 
 
 ### Map layers:
