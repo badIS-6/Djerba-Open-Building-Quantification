@@ -1,5 +1,4 @@
 # Cloud-Based Djerba Open Building Quantification
-# Djerba Building Footprint Quantification
 
 
 ## 1. Context
