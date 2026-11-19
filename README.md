@@ -46,7 +46,7 @@ The project uses four datasets hosted directly in Google Earth Engine:
 
 ## 4. Environment and Layers:
 
-**GEE Project Link**: https://code.earthengine.google.com/e3abca74eb488df63f1cc4a2370203d5
+**GEE Project Link**: [https://code.earthengine.google.com/e3abca74eb488df63f1cc4a2370203d5](https://code.earthengine.google.com/3853aa9e106a0b1f4e50f490ca3af071)
 
 
 ### Map layers:
@@ -94,14 +94,12 @@ Estimated inhabitants per km² using WorldPop 2026
 | Building footprint coverage   |          3.32 | % of study area |
 
 
-**Figure 1 – Building Count Evolution (2016–2023)**
+#### Figure 1 – Building Count Evolution (2016–2023)
 <img width="360" height="231" alt="image" src="https://github.com/user-attachments/assets/0b4b781b-48e8-41bc-b319-3b9ff432a213" />
 
 
-**Figure 2 – Building Count by Administrative Unit**
-
-
-
+#### Figure 2 – Building Count by Administrative Unit
+<img width="360" height="231" alt="image" src="https://github.com/user-attachments/assets/331e2e03-cfc5-49dd-b4c2-2ca75981eaf3" />
 
 
 ## 6. Conclusions
