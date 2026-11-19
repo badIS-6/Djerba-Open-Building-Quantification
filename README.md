@@ -66,10 +66,6 @@ Individual buildings detected by Open Buildings V3, filtered at confidence ≥ 0
 Raster representation of building presence confidence for 2023.
 <img width="969" height="687" alt="image" src="https://github.com/user-attachments/assets/7c0b99ec-d013-4fb3-8ff6-db7b03fe91bc" />
 
-## Building Density
-Number of detected buildings per km², aggregated on a 500m grid.
-<img width="969" height="687" alt="image" src="https://github.com/user-attachments/assets/a1835920-1b59-4779-9d39-78d2f82eb05d" />
-
 ## Building Height
 Estimated building heights in meters.
 <img width="969" height="687" alt="image" src="https://github.com/user-attachments/assets/15884645-eeb4-400b-9775-3895b76a58e4" />
